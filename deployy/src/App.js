@@ -5,6 +5,8 @@ const App = () => {
     <div>
       <h1>Fehzan</h1>
       <h1>Fehzan</h1>
+      <h1>Fehzan</h1>
+      <h1>Fehzan</h1>
     </div>
   )
 }
